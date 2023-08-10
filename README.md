@@ -14,6 +14,13 @@ perception pirating sentient rental summon savings exploitative debated bumped w
 downloading dressed
 license in his skull , the voice from " . 
 ```
+## Contents
+- This notebook contains a csv file, ipynb file and md file
+- EverythingScripts.csv contains data that I collected from Youtube API, it contains the following columns:
+  ```
+     Video ID,Title,Publish Date,Tags,Description,View Count,Like Count,Comment Count,Duration,Game Category,Scripts,Year,Month,Day,Sentiment,days_since
+  ```
+- gameth.ipynb is where all the coding is done 
 ## Dependencies and Installation
 
 
