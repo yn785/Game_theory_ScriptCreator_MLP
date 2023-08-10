@@ -11,16 +11,36 @@ that was ai actively again of this one to be you is my baby money actually my wh
 smokin drain perish chorus notifications secret 48 key uploaded revisiting resource election cuddle prematurely ski recap instances stumbled visualized provides reed archived hollywood itching rival
 eyebrows belong walkway east dunk visiting refresh hefty jack avoiding winding animal perish watches date ours luminescence glitches doko blame surpassing coursed unrivaled survived wrist drip
 perception pirating sentient rental summon savings exploitative debated bumped wreckage flashing stinger treated resource fee creeping sharing ceasing minireenas unveil deny cognitive symbol
-downloading dressed
-license in his skull , the voice from " . 
+downloading dressed license in his skull , the voice from " . 
 ```
+
 ## Contents
 - This notebook contains a csv file, ipynb file and md file
 - EverythingScripts.csv contains data that I collected from Youtube API, it contains the following columns:
   ```
-     Video ID,Title,Publish Date,Tags,Description,View Count,Like Count,Comment Count,Duration,Game Category,Scripts,Year,Month,Day,Sentiment,days_since
+  Video ID, Title, Publish Date, Tags, Description, View Count, Like Count, Comment Count, Duration, Game Category, Scripts, Year, Month, Day, Sentiment, days_since
   ```
-- gameth.ipynb is where all the coding is done 
+- gameth.ipynb is where all the coding is done
+  
+## Data Description
+- Video ID: the Video Id that can be pasted after https://www.youtube.com/watch?v=
+- Title: the title of the Video
+- Publish Date: the date it was published
+- Tags: The tags of the video
+- Description: Description of the video
+- View Count: number of views
+- Like Count: number of likes
+- Comment Count: number of Comments
+- Duration: length of the video
+- Game Category: Topic of the video
+- Scripts: transcript of the video
+- Year: year it was published
+- Month: month it was published
+- Day: day it was published
+- Sentiment: shows the score of sentiment for positive, neutral and negative
+- days_since: number of days since upload from a specific date picked
+
+
 ## Dependencies and Installation
 
 
