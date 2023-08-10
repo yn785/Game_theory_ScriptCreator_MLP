@@ -23,7 +23,10 @@ downloading dressed license in his skull , the voice from " .
 - gameth.ipynb is where all the coding is done
   
 ## Data Description
-- Video ID: the Video Id that can be pasted after https://www.youtube.com/watch?v=
+- Video ID: the Video Id that can be pasted this way:
+  ```
+  https://www.youtube.com/watch?v= Video ID &ab_channel=TheGameTheorists
+  ```
 - Title: the title of the Video
 - Publish Date: the date it was published
 - Tags: The tags of the video
