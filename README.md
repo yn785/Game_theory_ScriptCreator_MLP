@@ -71,3 +71,7 @@ downloading dressed license in his skull , the voice from " .
      ```
      pip install pandas
      ```
+# Resources
+
+paper: [MLP](https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf 
+Tutorial: [video](https://www.youtube.com/watch?v=TCH_1BHY58I&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=3&ab_channel=AndrejKarpathy)
